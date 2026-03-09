@@ -4,3 +4,7 @@ __pycache__/
 *.log
 bin/
 obj/
+[Bb]in/
+[Oo]bj/
+.vs/
+appsettings.Development.json
